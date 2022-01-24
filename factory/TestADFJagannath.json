@@ -1,0 +1,9 @@
+{
+	"name": "TestADFJagannath",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d703e2ca-6635-49cd-997c-231daa1cb916",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
